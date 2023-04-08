@@ -17,7 +17,7 @@ In this project, we utilized MySQL to explore the dataset and gain insights into
 Creating CTE's for visualizations purposes.
 
 In addition to the MySQL analysis, a Power BI dashboard was created to visualize the key insights and findings from the dataset. The dashboard includes interactive charts and tables that allow users to explore the data in more detail.
-The SQL code for this project can be found in the "SQL_code" folder of this repository. You can also view the full SQL code in this link Covid19_data_exploration.sql .
+The SQL code for this project can be found in the "SQL_code" folder of this repository. You can also view the full SQL code in this link https://github.com/nassimelhommani6/Covid19_Exploratory_Analysis-/blob/main/Covid19_data_exploration.sql .
 
 Some of the key findings from this analysis include:
  - The top 10 countries with the highest COVID-19 death tolls.
