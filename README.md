@@ -1,4 +1,4 @@
-# Covid19_Exploratory_Analysis-
+# Covid19 Exploratory Analysis-
 
 This project is an exploratory analysis of the COVID-19  dataset retrieved from the Our World in Data website. The dataset contains daily deaths and Vaccinations attributed to COVID-19 by country and date.
 
