@@ -1,5 +1,7 @@
 # Covid19 Exploratory Analysis
 
+![image](https://user-images.githubusercontent.com/130168330/230705704-37d856a3-fdd2-4819-9b48-e338bf7d3d72.png)
+
 This project is an exploratory analysis of the COVID-19  dataset retrieved from the Our World in Data website. The dataset contains daily deaths and Vaccinations attributed to COVID-19 by country and date.
 
 In this project, we utilized MySQL to explore the dataset and gain insights into the trends and patterns of COVID-19 . We used various SQL techniques to manipulate, aggregate, and visualize the data, including:
