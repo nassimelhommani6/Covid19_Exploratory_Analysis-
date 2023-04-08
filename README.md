@@ -1,6 +1,10 @@
+
+![image](https://user-images.githubusercontent.com/130168330/230705729-da0b72b1-8baa-4f58-8bc7-8bbb57944842.png)
+
+
+
 # Covid19 Exploratory Analysis
 
-![image](https://user-images.githubusercontent.com/130168330/230705704-37d856a3-fdd2-4819-9b48-e338bf7d3d72.png)
 
 This project is an exploratory analysis of the COVID-19  dataset retrieved from the Our World in Data website. The dataset contains daily deaths and Vaccinations attributed to COVID-19 by country and date.
 
