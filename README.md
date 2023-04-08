@@ -14,7 +14,7 @@ In addition to the MySQL analysis, a Power BI dashboard was created to visualize
 The SQL code for this project can be found in the "SQL_code" folder of this repository. You can also view the full SQL code in this link [add your link here].
 
 Some of the key findings from this analysis include:
--The top 10 countries with the highest COVID-19 death tolls.
--The daily death rate trend of COVID-19 globally.
--The correlation between COVID-19 deaths and population density.
-- Percent of population infected and vaccinated  by country .
+ -The top 10 countries with the highest COVID-19 death tolls.
+ -The daily death rate trend of COVID-19 globally.
+ -The correlation between COVID-19 deaths and population density.
+ - Percent of population infected and vaccinated  by country .
